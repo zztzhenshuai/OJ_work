@@ -1,0 +1,6 @@
+
+Cc:S11177"$declaration shadows a local variable(£ªæÇıÿÿÿÿ8ª¾µ1
+mc:S3776"TRefactor this function to reduce its Cognitive Complexity from 58 to the 25 allowed.(ø¾Š'8ª¾µ1
+kc:S1347"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(£ªæÇıÿÿÿÿ8ª¾µ1
+fc:S134="MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ÑèĞû8ª¾µ1
+_c:S924+"FReduce the number of nested "break" statements from 2 to 1 authorized.(£Ş¢š8ª¾µ1
